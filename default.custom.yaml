@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Mar 22 20:19:19 2026"
+  rime_version: 1.13.1
+patch:
+  schema_list:
+    - {schema: double_pinyin_flypy}
+  # ascii_composer/switch_key:
+  #   Caps_Lock: noop
+  #   Shift_L: noop
+  #   Shift_R: noop
+  #   Control_L: noop
+  #   Control_R: noop
