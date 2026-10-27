@@ -7,7 +7,7 @@ customization:
 patch:
   "style/color_scheme": purity_of_form_custom
   "style/color_scheme_dark": purity_of_form_custom
-  "style/comment_font_face": "HarmonyOS Sans SC"
-  "style/font_face": "Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:30:39, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Segoe UI, HarmonyOS Sans SC, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
+  "style/font_face": "Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:30:39, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Segoe UI, 霞鹜文楷:Medium, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
+  "style/label_font_face": "霞鹜文楷:Medium"
+  "style/comment_font_face": "霞鹜文楷:Medium"
   "style/horizontal": false
-  "style/label_font_face": "HarmonyOS Sans SC"
